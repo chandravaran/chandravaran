@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandravaran&count-private=true"/> -->
-[![Top Langs](https://github-readme-stats-zeta-bice.vercel.app/api/top-langs/?username=chandravaran?count_private=true)](https://github.com/chandravaran/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-bice.vercel.app/api/top-langs/?username=chandravaran?count_private=true)]
 
 
