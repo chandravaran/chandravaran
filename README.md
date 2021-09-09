@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Chandravaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandravaran)](https://github.com/chandravaran/github-readme-stats) -->
-![Chandravaran's GitHub stats](https://github-readme-stats-beta-pied.vercel.app/api?username=chandravaran&show_icons=true&theme=radical)
+![Chandravaran's GitHub stats](https://github-readme-stats-zeta-bice.vercel.app/api?username=chandravaran&show_icons=true&theme=radical)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandravaran&count-private=true"/>
