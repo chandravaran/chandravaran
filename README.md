@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Chandravaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandravaran)](https://github.com/chandravaran/github-readme-stats) -->
-![Chandravaran's GitHub stats](https://github-readme-stats-zeta-bice.vercel.app/api?username=chandravaran&show_icons=true&theme=radical?count_private=true)
+![Chandravaran's GitHub stats](https://github-readme-stats-zeta-bice.vercel.app/api?username=chandravaran&show_icons=true&theme=radical&count_private=true)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandravaran&count-private=true"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandravaran&count-private=true"/> -->
+[![Top Langs](https://github-readme-stats-zeta-bice.vercel.app/api/top-langs/?username=chandravaran?count_private=true)](https://github.com/chandravaran/github-readme-stats)
+
 
